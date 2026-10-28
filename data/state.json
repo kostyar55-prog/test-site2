@@ -5,30 +5,9 @@
  "manager": "",
  "foreman": "",
  "records": [],
- "people": [
-  {
-   "name": "asdasdas",
-   "role": "Прораб",
-   "salary": 121211
-  },
-  {
-   "name": "Константин Рутковский",
-   "role": "Прораб",
-   "salary": 23423
-  },
-  {
-   "name": "Xiaomi_33A5",
-   "role": "Прораб",
-   "salary": 23323323
-  },
-  {
-   "name": "рарпо",
-   "role": "Машинист",
-   "salary": 150
-  }
- ],
+ "people": [],
  "questions": [],
  "bonusRate": 10,
  "projectName": "5 участок — технологическое оборудование",
- "updatedAt": 1793167856971
+ "updatedAt": 1793167950804
 }
