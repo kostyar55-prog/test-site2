@@ -20,10 +20,15 @@
    "name": "Xiaomi_33A5",
    "role": "Прораб",
    "salary": 23323323
+  },
+  {
+   "name": "рарпо",
+   "role": "Машинист",
+   "salary": 150
   }
  ],
  "questions": [],
  "bonusRate": 10,
  "projectName": "5 участок — технологическое оборудование",
- "updatedAt": 1793167776805
+ "updatedAt": 1793167856971
 }
