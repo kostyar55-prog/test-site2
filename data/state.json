@@ -1,0 +1,24 @@
+{
+ "end": "2026-12-31",
+ "start": "2026-10-27",
+ "controller": "",
+ "manager": "",
+ "foreman": "",
+ "records": [],
+ "people": [
+  {
+   "name": "asdasdas",
+   "role": "Прораб",
+   "salary": 121211
+  },
+  {
+   "name": "Константин Рутковский",
+   "role": "Прораб",
+   "salary": 23423
+  }
+ ],
+ "questions": [],
+ "bonusRate": 10,
+ "projectName": "5 участок — технологическое оборудование",
+ "updatedAt": 1793166218397
+}
